@@ -12,3 +12,5 @@ This project can be run inside a python virtualenv. We have only tried this on L
 `./images/init_venv.sh` (Linux only).
 
 The READMEs of each project contain instructions about how to run each project.
+
+--- testing to investigate git packets sent over wire ---
